@@ -1,4 +1,4 @@
-# Satellite-Image-Classification-Segmentation
+# Satellite Image Classification & Segmentation
 
 ## Project Summary
 Goal: Automate land cover classification from high-resolution satellite images  
